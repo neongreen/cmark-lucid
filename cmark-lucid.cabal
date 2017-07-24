@@ -2,7 +2,7 @@ name:                cmark-lucid
 version:             0.1.0.0
 synopsis:            Use cmark with Lucid
 description:
-  Use cmark with Lucid
+  A package for rendering Markdown (parsed via cmark) to Lucid's HTML.
 homepage:            http://github.com/aelve/cmark-lucid
 bug-reports:         http://github.com/aelve/cmark-lucid/issues
 license:             BSD3
